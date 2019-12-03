@@ -1,0 +1,6 @@
+[06-Apr-2019 21:14:18 America/Argentina/Buenos_Aires] PHP Warning:  require(/home/estudio4/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/estudio4/public_html/index.php on line 24
+[06-Apr-2019 21:14:18 America/Argentina/Buenos_Aires] PHP Fatal error:  require(): Failed opening required '/home/estudio4/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/estudio4/public_html/index.php on line 24
+[06-Apr-2019 21:14:46 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '?' in /home/estudio4/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242
+[06-Apr-2019 21:14:47 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '?' in /home/estudio4/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242
+[06-Apr-2019 21:15:07 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '?' in /home/estudio4/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242
+[06-Apr-2019 21:15:21 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '?' in /home/estudio4/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242

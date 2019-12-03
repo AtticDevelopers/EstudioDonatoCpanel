@@ -1,0 +1,92 @@
+body {
+   scroll-behavior: smooth;
+   overflow-y: scroll;
+}
+
+.portfolio-item {
+   padding: 0px;
+   margin: 0px;
+}
+
+h4.card-title {
+   margin-bottom: 0px;
+}
+
+p.contactar-profesional {
+   text-align: center;
+   background: black;
+   margin: auto;
+   display: block;
+   color: white;
+   padding: 5px;
+   font-weight: 300;
+   margin-bottom: 5px;
+}
+
+p.contactar-profesional : hover{   
+   text-decoration: none;
+}
+
+p.card-text {
+   background-color: rgba(220,220,220,0.6);
+   padding: 10px;
+}
+
+.btn.btn-primary.btn-area, .btn.btn-primary.btn-contactar-profesional{
+   margin: auto;
+   display: block;
+   background: #034f84;
+   font-weight: 500;
+   font-size-adjust: auto;
+}
+
+img.rounded-circle.img-fluid.d-block.mx-auto.responsive{
+   width: auto;
+   height: auto;
+   max-height: 200px;
+   max-width: 200px;
+}
+
+.btn.btn-primary.btn-area.collapsed .fa-chevron-down, .btn.btn-primary.btn-area .fa-chevron-right{
+   display: none;
+}
+
+.btn.btn-primary.btn-area.collapsed .fa-chevron-right, .btn.btn-primary.btn-area .fa-chevron-down{
+   display: inline-block;
+   margin-left: 10%;
+}
+
+i.fa {
+   cursor: pointer;
+   margin-right: 5px;
+}
+
+.collapsed ~ .panel-body {
+   padding: 0;
+}
+
+.rol-especialista, .nombre-especialista{
+   text-align: center;
+}
+
+h1#seccion-areas, h1#seccion-especialistas{
+   font-size: 1.8rem;   
+}
+
+
+@media (max-width: 900px) {
+   h1#seccion-areas, h1#seccion-especialistas{
+      font-size: 1.8rem;   
+   }
+}
+
+
+
+
+
+
+
+
+
+
+

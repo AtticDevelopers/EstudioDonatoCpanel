@@ -1,0 +1,17 @@
+body, html{
+   height: auto;
+}
+.row {
+   margin-top: 15px;
+}
+
+.container{
+   padding-top: 5px;
+   margin-bottom: 10px;
+}
+
+button#sendMessageButton {
+   background: #034f84;
+   -webkit-appearance: none;
+   border: none;
+}
